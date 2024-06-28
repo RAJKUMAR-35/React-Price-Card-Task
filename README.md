@@ -20,7 +20,7 @@ A React.js application aims to display a dynamic price card interface using Reac
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/your/repository.git`
-2. Navigate to the project directory: `cd react-price-card-task`
+2. Navigate to the project directory: `cd react-pricecard-task`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 5. Open your browser and go to `http://localhost:3000`
